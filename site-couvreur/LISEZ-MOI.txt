@@ -1,0 +1,17 @@
+SITE VITRINE COUVREUR — PERSONNALISATION
+
+Fichiers :
+- index.html : site responsive principal
+- mentions-legales.html : modèle à compléter
+- confidentialite.html : modèle à adapter
+
+AVANT MISE EN LIGNE :
+1. Dans index.html, remplacez EMAIL_A_REMPLACER dans l'attribut action du formulaire par l'adresse e-mail du couvreur. Exemple : https://formsubmit.co/contact@entreprise.fr
+2. Lors du premier envoi, FormSubmit enverra un e-mail de confirmation à cette adresse : le propriétaire devra l'activer pour recevoir les demandes.
+3. Remplacez le numéro de téléphone +33000000000 du bouton d'appel mobile par le vrai numéro au format international (ex. +33612345678).
+4. Remplacez le nom « VOTRE COUVREUR », les services réels, la zone d'intervention et les informations de contact.
+5. Les images actuelles sont chargées depuis Unsplash et nécessitent une connexion internet. Remplacez-les par des photos réelles des chantiers du client pour un site plus crédible.
+6. Complétez les mentions légales et la politique de confidentialité selon l'entreprise et les outils effectivement utilisés.
+7. Ne publiez pas les notes, avis, assurances ou garanties sans éléments réels permettant de les justifier.
+
+Le formulaire ne peut pas recevoir de messages tant que l'adresse e-mail n'a pas été configurée et validée.
